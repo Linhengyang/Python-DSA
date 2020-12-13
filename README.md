@@ -1,2 +1,2 @@
 # Python-DSA
-The repo to practice Python Data Structure and Algorithm
+The repo to practice Python Data Structure/Algorithm
