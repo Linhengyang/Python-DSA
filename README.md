@@ -13,7 +13,7 @@ Week 2: 算法分析 大O表示
 [TextBook](https://runestone.academy/runestone/books/published/pythonds/AlgorithmAnalysis/toctree.html)  
 
 Week 3:  Python基础  线性结构  
-[Video1](https://www.bilibili.com/video/BV17E411478j)  [Video2](https://www.bilibili.com/video/BV13E411g7VL)
+[Video1](https://www.bilibili.com/video/BV17E411478j)  [Video2](https://www.bilibili.com/video/BV13E411g7VL)    
 [Slides1](/Slides/week3/sessdsa2020-05.pdf)  
 
 ---
