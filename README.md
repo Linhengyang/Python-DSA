@@ -4,7 +4,7 @@ The repo to practice Python Data Structure/Algorith
 [课程网页:北京大学地空学院数据结构与算法](http://gis4g.pku.edu.cn/course/pythonds/)  
 
 Week 1: 简介 课程安排  计算理论  
-[Week1 Video 1](https://www.bilibili.com/video/BV1S741177C9?p=1)    [Week1 Video 2](https://www.bilibili.com/video/BV1V7411M7YV)
+[Week1 Video 1](https://www.bilibili.com/video/BV1S741177C9?p=1)    [Week1 Video 2](https://www.bilibili.com/video/BV1V7411M7YV)  
 [Week1 Slides 1](/Slides/week1/sessdsa2020-00.pdf)  
 
 Week 2: 算法分析 大O表示  
