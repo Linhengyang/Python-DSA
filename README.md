@@ -2,18 +2,18 @@
 The repo to practice Python Data Structure/Algorith  
 
 [课程网页:北京大学地空学院数据结构与算法](http://gis4g.pku.edu.cn/course/pythonds/)  
+[TextBook](https://runestone.academy/runestone/books/published/pythonds/index.html)  
 
 Week 1: 简介 课程安排  计算理论  
-[Video1](https://www.bilibili.com/video/BV1S741177C9?p=1)  [Video2](https://www.bilibili.com/video/BV1V7411M7YV)  
+[图灵机](https://www.bilibili.com/video/BV1S741177C9?p=1)  [计算理论](https://www.bilibili.com/video/BV1V7411M7YV)  
 [Slides1](/Slides/week1/sessdsa2020-00.pdf)  
 
 Week 2: 算法分析 大O表示  
-[Video1](https://www.bilibili.com/video/BV1eE411n7q2)  [Video2](https://www.bilibili.com/video/BV1eE411n79a?p=3)  
-[Slides1](/Slides/week2/sessdsa2020-02.pdf)  [Slides2](/Slides/week2/sessdsa2020-04.pdf)  
-[TextBook](https://runestone.academy/runestone/books/published/pythonds/AlgorithmAnalysis/toctree.html)  
+[算法分析](https://www.bilibili.com/video/BV1eE411n7q2)  [小结](https://www.bilibili.com/video/BV1eE411n79a?p=3)  
+[Slides1](/Slides/week2/sessdsa2020-02.pdf)  [Slides2](/Slides/week2/sessdsa2020-04.pdf)   
 
 Week 3:  Python基础  线性结构  
-[Video1](https://www.bilibili.com/video/BV17E411478j)  [Video2](https://www.bilibili.com/video/BV13E411g7VL)    
+[Python基础](https://www.bilibili.com/video/BV17E411478j)  [栈及其应用](https://www.bilibili.com/video/BV13E411g7VL)    
 [Slides1](/Slides/week3/sessdsa2020-05.pdf)  
 
 ---
