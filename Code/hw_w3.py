@@ -94,8 +94,8 @@ def jiancha(input_str):
             Good = False
             break
         elif not heap.isEmpty() and numbs[j] > heap.peek():
-            for i in range(numbs[j]):
-                if i not in heap.items and i not in numbs[:j]:
+            for i in range(heap.peek()+1, numbs[j]):
+                if i not in numbs[:j]:
                     heap.push(i)
         else: # now heap is empty
             # numbs[:j] 是0到j-1的一个排列
